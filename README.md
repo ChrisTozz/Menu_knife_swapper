@@ -1,2 +1,3 @@
 # Menu_knife_swapper
-Sourcemod plugins
+Sourcemod plugin
+Command: !knife
